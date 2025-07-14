@@ -1,0 +1,13 @@
+{
+  "name": "print-on-demand-guide",
+  "version": "1.0.0",
+  "description": "A comprehensive guide to starting a print-on-demand business",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "echo 'Server starting'"
+  },
+  "keywords": ["print-on-demand", "business", "guide", "ecommerce"],
+  "author": "Print on Demand Business",
+  "license": "MIT"
+} 
