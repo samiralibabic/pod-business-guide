@@ -4,7 +4,7 @@
   "description": "A comprehensive guide to starting a print-on-demand business",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Build complete'",
+    "build": "echo 'Static files ready in public directory'",
     "start": "echo 'Server starting'"
   },
   "keywords": ["print-on-demand", "business", "guide", "ecommerce"],

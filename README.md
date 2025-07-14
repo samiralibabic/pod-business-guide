@@ -15,9 +15,10 @@ A comprehensive landing page guide to starting and growing a successful print-on
 
 ```
 /
-├── index.html          # Main landing page
+├── public/
+│   ├── index.html      # Main landing page
+│   └── sitemap.xml     # SEO sitemap
 ├── package.json        # Project metadata
-├── sitemap.xml         # SEO sitemap
 ├── .gitignore         # Git ignore rules
 ├── README.md          # This file
 └── other-projects/    # Unrelated files and projects
